@@ -1,7 +1,7 @@
 **Links - General**  
 * [Repair.org](repair.org)
 
-**Links - Specific**
+**Links - Specific**  
 * [Samsung TV won't turn on](https://arstechnica.com/gadgets/2012/10/how-samsung-spent-300-fixing-my-out-of-warranty-tvs-click-of-death/)
 
 **Repair Hints**  
