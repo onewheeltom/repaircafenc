@@ -1,4 +1,3 @@
-**RepairCafe NC**
 Links - General  
 * [Repair.org](repair.org)
 
